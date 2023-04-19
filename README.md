@@ -3,8 +3,7 @@ This repository contains the chemical monitoring data from a campaign that was p
 
 Citations:
 
-1) Dataset only
-ZENODO
+1) Dataset only [![DOI](https://zenodo.org/badge/616514468.svg)](https://zenodo.org/badge/latestdoi/616514468)
 
 3) Data descriptors (methods and data description)
 DATA journal
