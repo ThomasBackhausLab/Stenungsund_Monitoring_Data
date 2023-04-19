@@ -1,4 +1,4 @@
-# Stenungsund-Monitoring-Data
+# Stenungsund Monitoring Data
 This repository contains the chemical monitoring data from a campaign that was performed along the Swedish West Coast in 2020 by FRAM - Centre for Future Chemical Risk Assessment and Management Strategies at the University of Gothenburg (Sweden). We encourage researchers to use the suggested citations if you make use of our data.
 
 Citations:
